@@ -1,10 +1,26 @@
-# Plataforma Streaming
-
 <p align="center">
-  <img width="200" height="200" src="https://user-images.githubusercontent.com/63796774/88346427-af2e9500-cd1e-11ea-8dd4-9d13e4f3f61a.gif">
+  <img src="https://user-images.githubusercontent.com/63796774/89105399-2b983680-d3f7-11ea-9b7b-248bdda6090e.png">
 </p>
 
-Documentacion disponible en: https://documenter.getpostman.com/view/11716574/T1DmFeoZ
+## Funcionalidad
+- [x] Crear una Serie con sus temporadas, episodios y websodios
+- [x] Listar Series
+- [x] Buscar una serie por nombre
 
-Deploy en Heroku :  https://git.heroku.com/nesflix.git
+# Documentación
+
+[Conocé cómo funciona está API](https://documenter.getpostman.com/view/11716574/T1DmFeoZ)
+
+# Deployment
+
+[Deploy en Heroku]( https://git.heroku.com/nesflix.git)
+
+
+## Construído con…
+- [x] JAVA
+- [x] API Rest
+- [x] Springboot
+- [x] MongoDB
+- [x] Heroku
+
 
